@@ -1,7 +1,7 @@
 {
   "name": "fairholm/elasticquent",
   "type": "library",
-  "description": "Map Larvel Eloquent models to Elasticsearch types.",
+  "description": "Map Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
     "elasticsearch",
     "eloquent",
@@ -18,9 +18,9 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "~4.2",
-    "illuminate/database": "~4.2",
-    "nesbot/carbon": "~1.0",
+    "illuminate/support": ">=4.2",
+    "illuminate/database": ">=4.2",
+    "nesbot/carbon": ">=1.0",
     "elasticsearch/elasticsearch": "~1.0"
   },
   "require-dev": {
